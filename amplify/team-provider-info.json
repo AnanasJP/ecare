@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecare-dev-00714-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335240729:role/amplify-ecare-dev-00714-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335240729:role/amplify-ecare-dev-00714-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-ecare-dev-00714-deployment",
+      "UnauthRoleName": "amplify-ecare-dev-00714-unauthRole",
+      "StackName": "amplify-ecare-dev-00714",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:730335240729:stack/amplify-ecare-dev-00714/b9d46700-d4b8-11ee-842f-0e246cbcc5b9",
+      "AmplifyAppId": "d2kck7m3rr7a88"
+    }
+  }
+}
